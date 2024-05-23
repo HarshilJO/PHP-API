@@ -10,18 +10,17 @@ This project is an implementation of a RESTful API using PHP to interact with a 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rest-api-php-mysql.git
+   git clone https://github.com/HarshilJO/PHP-API.git
+   
    ```
 2. Install dependencies using Composer:
    ```bash
    composer install
    ```
 
-3. Start the local server:
-   ```bash
-   php -S localhost:800 -t public/
-   ```
-4. You can now access the API at http://localhost:800/api/{endpoint}.
+3. Start the Apache server:
+ 
+4. You can now access the API at http://localhost/.
 
 
 
